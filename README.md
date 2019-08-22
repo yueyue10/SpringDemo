@@ -7,9 +7,11 @@
 `之前一直使用社区版本的IntelliJ IDEA Community Edition创建Spring项目一直不是特别方便，因为缺少了Spring Boot等插件。
 之后安装了IntelliJ IDEA 2019.2，感觉整个人都要嗨起来了！Plugins里面预装了许多插件很方便的，Android开发也可以使用这个工具了，这些是在Marketplace里面搜不到的。`
 
-![贴图](https://raw.githubusercontent.com/yueyue10/SpringDemo/master/idea.png)
+![贴图](https://github.com/yueyue10/SpringDemo/blob/master/idea.png)
 
+#### Idea相关
 > idea注册码我使用的是这个网址里面的：https://blog.csdn.net/weixin_39973810/article/details/93868534
+
 > 修改idea运行内存，可以参考：https://blog.csdn.net/chenzz2560/article/details/84373029
 
 **偶然发现的一个电脑卡顿的问题。因为电脑内存配置了最高支持的8G内存条，但是运行Idea之类的软件就会让内存占用慢慢升至60-80%很痛苦。
