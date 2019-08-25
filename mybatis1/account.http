@@ -8,6 +8,8 @@ GET http://localhost:8080/account/list
 #PUT http://localhost:8080/account/1?name=akl&money=534
 ## 删除
 #DELETE http://localhost:8080/account/1
+## transfer
+#GET http://localhost:8080/account/updateMoney?id=1&money=123
 ##
 Accept: */*
 Cache-Control: no-cache
