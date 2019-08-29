@@ -20,9 +20,21 @@
 ---
 ## 项目目录
 
-| Project     | Project介绍(点击查看详情)    |
-| --------    |          :----:            |
-| hello       |   <h3 align="center"><a href="https://github.com/yueyue10/SpringDemo/tree/master/hello" >第一个Spring项目</a></h3>     |
-| mybatis     |   <h3 align="center"><a href="https://github.com/yueyue10/SpringDemo/tree/master/mybatis" >MyBatis 测试项目</a></h3>   |
+| Project       | Project介绍(点击查看详情)    |
+| --------      |          :----:            |
+| hello         |    [第一个Spring项目][2]  |
+| mybatis       |    [MyBatis 测试项目][3]   |
+| jdbc          |    [jdbc 测试项目][4]   |
+| jpa           |    [jpa 测试项目][5]   |
+| mybatis1      |    [mybatis1 测试项目][6]   |
+| eureka        |    [eureka 测试项目][7]   |
+| spring-eureka     |    [spring-eureka 测试项目][8]   |
 
 [1]: https://jingyan.baidu.com/article/ceb9fb10ab6db68cad2ba0b0.html
+[2]: https://github.com/yueyue10/SpringDemo/tree/master/hello
+[3]: https://github.com/yueyue10/SpringDemo/tree/master/mybatis
+[4]: https://github.com/yueyue10/SpringDemo/tree/master/jdbc
+[5]: https://github.com/yueyue10/SpringDemo/tree/master/jpa
+[6]: https://github.com/yueyue10/SpringDemo/tree/master/mybatis1
+[7]: https://github.com/yueyue10/SpringDemo/tree/master/eureka
+[8]: https://github.com/yueyue10/SpringDemo/tree/master/spring-eureka
